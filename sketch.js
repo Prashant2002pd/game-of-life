@@ -59,7 +59,7 @@ function change(grid){
 
 
 function setup() {
-  frameRate(5);
+  frameRate(30);
   createCanvas(600, 600);
   col=width/resolution;
   row=height/resolution;
