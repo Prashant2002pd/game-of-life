@@ -16,10 +16,7 @@ The game is played on a grid of cells, each of which can be in one of two possib
 ## Getting Started
 
 To run the Game of Life locally, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/game-of-life.git`
-2. Navigate to the project directory: `cd game-of-life`
-3. Open the `index.html` file in your preferred web browser.
+  https://prashant2002pd.github.io/game-of-life/
 
 
 ## Dependencies
