@@ -15,7 +15,7 @@ The game is played on a grid of cells, each of which can be in one of two possib
 
 ## Getting Started
 
-To run the Game of Life locally, follow these steps:
+To run the Game of Life locally, visit:
   https://prashant2002pd.github.io/game-of-life/
 
 
